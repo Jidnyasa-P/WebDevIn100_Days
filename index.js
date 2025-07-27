@@ -129,7 +129,7 @@ function fillTable() {
       ["Day25"," Portfolio", " https://priyacodesarts.netlify.app/"],
       ["Day 26", "Offline Emergency Info Kit", "public/Day-26_Offline_Emergency_Info_Kit/index.html"],
         ["Day 27", "Mood-Based Scheduler", "public/Day-27_Mood-Based Scheduler/index.html"],
-
+        ["Day 27", "Amazon Clone", "public/Day-28_Amazon_Clone/index.html"],
     ];
 
 
