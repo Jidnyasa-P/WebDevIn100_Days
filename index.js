@@ -137,6 +137,7 @@ function fillTable() {
         ["Day 26", "Offline Emergency Info Kit", "public/Day-26_Offline_Emergency_Info_Kit/index.html"],
         ["Day 28", "Target Reflex Test", "public/Day-28_Target_Reflex_Test/index.html"],
         ["Day 29", "Snake And Ladder Game", "public/Snake-and-Ladder-Game/index.html"],
+        ["Day 30", "Note Taker", "public/Day-42_NoteTaker/index.html"],
     ];
 
 
