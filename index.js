@@ -127,7 +127,7 @@ function fillTable() {
         ["Day 26", "GiggleBits", "public/GiggleBits/index.html"],
         ["Day 22", "Palette Generator", "public/Day-22_Palette_generator/index.html"],
         ["Day 25"," Portfolio", " https://priyacodesarts.netlify.app/"],
-        ["Day 26", "Offline Emergency Info Kit", "public/Day-26_Offline_Emergency_Info_Kit/index.html"],
+  
         ["Day 28", "Target Reflex Test", "public/Day-28_Target_Reflex_Test/index.html"],
         ["Day 29", "Snake And Ladder Game", "public/Snake-and-Ladder-Game/index.html"],
         ["Day 30", "Note Taker", "public/Day-42_NoteTaker/index.html"],
@@ -157,8 +157,9 @@ function fillTable() {
           ["Day 57", "4 in a Row", "public/Day-57_4_in_a_row/index.html"],
 
           ["Day 58", "Budget Tracker", "public/Budget-Tracker/index.html"],
-
+        
       ["Day70","Memory Game App","./public/Memory Game App/index.html"]
+              ["Day 59", "Offline Emergency Info Kit", "public/Day-26_Offline_Emergency_Info_Kit/index.html"],
         
 
 
