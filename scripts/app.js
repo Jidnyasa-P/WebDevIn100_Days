@@ -661,6 +661,16 @@ class WebDev100Days {
         technologies: ["HTML", "CSS", "JavaScript", "API"],
         features: ["Visitor Management", "History Tracking", "Search Functionality"]
 
+      },
+      {
+        originalDay: 126,
+          name: "Mood Based Scheduler",
+        description: "A simple, creative to-do list web app where users can assign tasks based on their current mood.",
+        demoLink: "./public/Mood-Based Scheduler/index.html",
+        category: "utilities",
+        technologies: ["HTML", "CSS", "JavaScript"],
+        features: ["Select Moods", "Add tasks", "Easy add/delete tasks", "Colour mood filter"]
+
       }
     ];
   
